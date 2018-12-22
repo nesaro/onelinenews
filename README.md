@@ -1,0 +1,1 @@
+One line news summarizer
